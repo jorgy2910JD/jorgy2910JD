@@ -90,7 +90,9 @@
   <br> 
 
   --- 
-  <p style="color: white; font-style: italic; font-weight: bold; font-size: 1.5em;">
-    “Be the change you want to see in the world.”<br>
-    <span style="font-style: normal; font-size: 1em;">– Mahatma Gandhi</span>
-  </p> 
+  <div align="center">
+    <p style="color: white; font-style: italic; font-weight: bold; font-size: 1.5em;">
+      “Be the change you want to see in the world.”<br>
+      <span style="font-style: normal; font-size: 1em;">– Mahatma Gandhi</span>
+    </p> 
+  </div>
