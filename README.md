@@ -86,3 +86,11 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
+
+  <br> 
+
+  --- 
+  <p style="color: white; font-style: italic; font-weight: bold; font-size: 1.5em;">
+    “Be the change you want to see in the world.”<br>
+    <span style="font-style: normal; font-size: 1em;">– Mahatma Gandhi</span>
+  </p> 
